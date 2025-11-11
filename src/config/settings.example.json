@@ -1,0 +1,10 @@
+{
+  "locale": "en",
+  "country": "us",
+  "timeout": 15,
+  "output": {
+    "directory": "data",
+    "json_filename": "sample_output.json",
+    "csv_filename": "sample_output.csv"
+  }
+}
