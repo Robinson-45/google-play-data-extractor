@@ -1,0 +1,23 @@
+[
+  {
+    "appId": "com.spotify.music",
+    "title": "Spotify: Music and Podcasts",
+    "developer": "Spotify AB",
+    "category": "Music & Audio",
+    "rating": 4.4,
+    "reviewsCount": 30000000,
+    "installs": "1,000,000,000+",
+    "price": "Free",
+    "inAppPurchases": true,
+    "description": "Stream millions of songs and podcasts from around the world.",
+    "releaseDate": "2008-10-07",
+    "lastUpdated": "2025-11-03",
+    "version": "8.9.45.567",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/xyz123",
+      "https://play-lh.googleusercontent.com/xyz456"
+    ],
+    "iconUrl": "https://play-lh.googleusercontent.com/icon789",
+    "developerWebsite": "https://www.spotify.com"
+  }
+]
